@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammad Sarbaz 👋
 
 ## 🎓 About Me
-Ph.D. candidate in Mechanical Engineering at the **University of Oklahoma**, specializing in optimal control design with extensive experience in Deep Learning, Reinforcement Learning, Trajectory Planning, Motion Planning, Model Predictive Control, Robust Control, Distributed Systems, and Robotic Systems. Skilled in developing Intelligent Control algorithms for Electrical Systems, Aircraft, and Unmanned Aerial Vehicles (UAVs).
+Ph.D. in Mechanical Engineering at the **University of Oklahoma**, specializing in optimal control design with extensive experience in Deep Learning, Reinforcement Learning, Trajectory Planning, Motion Planning, Model Predictive Control, Robust Control, Distributed Systems, and Robotic Systems. Skilled in developing Intelligent Control algorithms for Electrical Systems, Aircraft, and Unmanned Aerial Vehicles (UAVs).
 
 ## 🔬 Research Interests
 - Optimal Control & Robust Control
